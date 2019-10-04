@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/reactjs-login-form/static/css/main.0989f10c.chunk.css",
+    "main.js": "/reactjs-login-form/static/js/main.dbfe7686.chunk.js",
+    "main.js.map": "/reactjs-login-form/static/js/main.dbfe7686.chunk.js.map",
+    "runtime-main.js": "/reactjs-login-form/static/js/runtime-main.0528818e.js",
+    "runtime-main.js.map": "/reactjs-login-form/static/js/runtime-main.0528818e.js.map",
+    "static/js/2.e74b291d.chunk.js": "/reactjs-login-form/static/js/2.e74b291d.chunk.js",
+    "static/js/2.e74b291d.chunk.js.map": "/reactjs-login-form/static/js/2.e74b291d.chunk.js.map",
+    "index.html": "/reactjs-login-form/index.html",
+    "precache-manifest.5474a2f123b535f18dcedd205938a5cb.js": "/reactjs-login-form/precache-manifest.5474a2f123b535f18dcedd205938a5cb.js",
+    "service-worker.js": "/reactjs-login-form/service-worker.js",
+    "static/css/main.0989f10c.chunk.css.map": "/reactjs-login-form/static/css/main.0989f10c.chunk.css.map",
+    "static/media/logo.svg": "/reactjs-login-form/static/media/logo.25bf045c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0528818e.js",
+    "static/js/2.e74b291d.chunk.js",
+    "static/css/main.0989f10c.chunk.css",
+    "static/js/main.dbfe7686.chunk.js"
+  ]
+}
